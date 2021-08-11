@@ -1,1 +1,0 @@
-for /l %n in (1,1,933) do bin\OpenPoseDemo.exe --video input\NV_avi_rename\NV_%n.avi --write_video output\NV\NV_%n.avi
